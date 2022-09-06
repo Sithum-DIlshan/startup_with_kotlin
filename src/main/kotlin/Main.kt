@@ -1,4 +1,5 @@
 fun main() {
-    val name: String="sithum"
-    println("Hello $name")
+    val fName: String="sithum"
+    val lName: String="dilshan"
+    println("Hello $fName $lName")
 }
